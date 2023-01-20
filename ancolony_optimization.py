@@ -140,10 +140,10 @@ cityNames = [
 
 parameters = {
     'Q': 100,
-    'rho': 0.6,
+    'rho': 0.1,
     'antSize': 10,
     'matriks': matriks,
-    'maxIter': 30,
+    'maxIter': 10,
     'cityNames': cityNames
 }
 
